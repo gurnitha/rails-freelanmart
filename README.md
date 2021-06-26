@@ -45,7 +45,17 @@ https://github.com/gurnitha/rails-freelanmart
         modified:   package.json
         modified:   yarn.lock
 
+### 2. MEMBUAT HOME PAGE DAN NAVBAR
 
+#### 2.1.5 Membuat controller Pages dan action/method home
+
+        modified:   README.md
+        new file:   app/assets/stylesheets/pages.scss
+        new file:   app/controllers/pages_controller.rb
+        new file:   app/helpers/pages_helper.rb
+        new file:   app/views/pages/home.html.erb
+        modified:   config/routes.rb
+        new file:   test/controllers/pages_controller_test.rb 
 
 
 
