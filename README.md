@@ -1,5 +1,7 @@
 ### MEMBUAT APLIKASI FREELANMART MENGGUNAKAN RUBY ON RAILS DAN POSTGRESQL
 
+https://github.com/gurnitha/rails-freelanmart
+
 ### 1. SETUP
 
 #### 1.1.1 Membuat proyek baru 'FreelanMart' dan Database
@@ -27,3 +29,9 @@
 		├── tmp
 		├── vendor
 		└── yarn.lock 
+
+#### 1.2.2 Membuat remote repository pada Github
+
+        gurnitha/rails-freelanmart 
+        https://github.com/gurnitha/rails-freelanmart
+        modified:   README.md		
